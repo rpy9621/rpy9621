@@ -1,7 +1,7 @@
 <center>
   <h1 align="center">Hi 👋, I'm Ramendra</h1>
 <h3 align="center">A techie</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2j-hGZpXLPATcYKXX7lyUB&ust=1706473957255000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICMgoa1_oMDFQAAAAAdAAAAABAD"></center></img>
+<img src="01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d"></center></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpy9621&label=Profile%20views&color=0e75b6&style=flat" alt="rpy9621" /> </p>
 
