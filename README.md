@@ -34,11 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rpy9621&" alt="rpy9621" /></p>
 
-# Uber Rides Data Analysis Using Python
 
-![GitHub Repo stars](https://img.shields.io/github/stars/rpy9621/Uber_Data_Analysis_Using_Python?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rpy9621/Uber_Data_Analysis_Using_Python?style=social)
-![GitHub issues](https://img.shields.io/github/issues/rpy9621/Uber_Data_Analysis_Using_Python)
-![GitHub license](https://img.shields.io/github/license/rpy9621/Uber_Data_Analysis_Using_Python)
-![GitHub last commit](https://img.shields.io/github/last-commit/rpy9621/Uber_Data_Analysis_Using_Python)
 
